@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-)vyk+qsd$yahm-qa0q3(@=)9d#)(sg0cc&f*68y38=-q36spi7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://movie-recommendation-mu.vercel.app/']
+ALLOWED_HOSTS = ['*']
 
 
 
